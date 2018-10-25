@@ -13,6 +13,5 @@ def findAnagrams(s, p):
             result.append(i)
     return result
 
-def find_anagrams(s, p):
-    def rka(s, p):
+
         
